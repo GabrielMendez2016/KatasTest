@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\KataBowlingUnitTest\KataBowlingUnitTest\bin\Debug\KataBowlingUnitTest.dll
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\KataBowlingUnitTest\KataBowlingUnitTest\bin\Debug\KataBowlingUnitTest.pdb
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\KataBowlingUnitTest\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\KataBowlingUnitTest\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.dll
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\KataBowlingUnitTest\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.pdb
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\KataBowlingUnitTest\bin\Debug\KataBowlingUnitTest.dll
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\KataBowlingUnitTest\bin\Debug\KataBowlingUnitTest.pdb
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.dll
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.pdb
+C:\Users\Gabriel\Desktop\KataTest\KataTests\KataBowlingUnitTest\bin\Debug\KataBowlingUnitTest.dll
+C:\Users\Gabriel\Desktop\KataTest\KataTests\KataBowlingUnitTest\bin\Debug\KataBowlingUnitTest.pdb
+C:\Users\Gabriel\Desktop\KataTest\KataTests\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\KataTest\KataTests\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.dll
+C:\Users\Gabriel\Desktop\KataTest\KataTests\KataBowlingUnitTest\obj\Debug\KataBowlingUnitTest.pdb

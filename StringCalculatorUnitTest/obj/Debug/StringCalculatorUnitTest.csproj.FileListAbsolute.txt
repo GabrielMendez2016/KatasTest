@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\StringCalculatorUnitTest\bin\Debug\StringCalculatorUnitTest.dll
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\StringCalculatorUnitTest\bin\Debug\StringCalculatorUnitTest.pdb
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.dll
+C:\Users\Gabriel\Desktop\ProdigiusTest\Samples\RomanNumbers\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.pdb
+C:\Users\Gabriel\Desktop\KataTest\KataTests\StringCalculatorUnitTest\bin\Debug\StringCalculatorUnitTest.dll
+C:\Users\Gabriel\Desktop\KataTest\KataTests\StringCalculatorUnitTest\bin\Debug\StringCalculatorUnitTest.pdb
+C:\Users\Gabriel\Desktop\KataTest\KataTests\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\KataTest\KataTests\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.dll
+C:\Users\Gabriel\Desktop\KataTest\KataTests\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.pdb
